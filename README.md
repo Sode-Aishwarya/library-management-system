@@ -140,5 +140,4 @@ Through this project you can understand:
 
 ## Author
 
-Aishwarya Sode
-Engineering Student
+Sode Aishwarya(BMSIT)
